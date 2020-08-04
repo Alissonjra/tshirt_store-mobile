@@ -52,5 +52,5 @@ Install the application in a IOS device:
 # :closed_book: License
 
 Released in 2020 (Work in progress)
-This project is under the [MIT license](https://github.com/Alissonjra/gomarketplace-mobile/blob/master/LICENSE)
+This project is under the [MIT license](https://github.com/Alissonjra/tshirt_store-mobile/blob/master/LICENSE)
 
