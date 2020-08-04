@@ -37,13 +37,6 @@ const Dashboard: React.FC = () => {
     async function loadProducts(): Promise<void> {
       const response = await api.get('/products');
 
-      // const productsFormatted = response.data.products.map(
-      //   (product: Product) => ({
-      //     ...product,
-      //     formattedValue: formatValue(product.price),
-      //   }),
-      // );
-
       setProducts(response.data);
     }
 
